@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robots-API/static/css/main.63efad58.chunk.css",
+    "main.js": "/Robots-API/static/js/main.497c0d71.chunk.js",
+    "main.js.map": "/Robots-API/static/js/main.497c0d71.chunk.js.map",
+    "runtime-main.js": "/Robots-API/static/js/runtime-main.de3a5f33.js",
+    "runtime-main.js.map": "/Robots-API/static/js/runtime-main.de3a5f33.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Robots-API/static/css/2.31461e4f.chunk.css",
+    "static/js/2.beaa6ba2.chunk.js": "/Robots-API/static/js/2.beaa6ba2.chunk.js",
+    "static/js/2.beaa6ba2.chunk.js.map": "/Robots-API/static/js/2.beaa6ba2.chunk.js.map",
+    "static/js/3.08f66bb8.chunk.js": "/Robots-API/static/js/3.08f66bb8.chunk.js",
+    "static/js/3.08f66bb8.chunk.js.map": "/Robots-API/static/js/3.08f66bb8.chunk.js.map",
+    "index.html": "/Robots-API/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Robots-API/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.63efad58.chunk.css.map": "/Robots-API/static/css/main.63efad58.chunk.css.map",
+    "static/js/2.beaa6ba2.chunk.js.LICENSE.txt": "/Robots-API/static/js/2.beaa6ba2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robots-API/static/media/Gumball.2c507932.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de3a5f33.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.beaa6ba2.chunk.js",
+    "static/css/main.63efad58.chunk.css",
+    "static/js/main.497c0d71.chunk.js"
+  ]
+}
